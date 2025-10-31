@@ -1,0 +1,16 @@
+FANX-Kapalı-Döngü/
+│
+├── app/
+│   └── app.py
+├── core/
+│   └── sim_core.py
+├── data/
+│   └── sample_users.json
+├── docs/
+│   └── DAO_GOVERNANCE.md
+│
+├── .gitignore
+├── LICENSE.txt
+├── README.md
+├── SECURITY_REGULATORY.md
+└── requirements.txt
